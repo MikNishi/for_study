@@ -1,0 +1,11 @@
+name: env2
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - scikit-learn
+  - seaborn
+  - matplotlib
+prefix: C:\Users\user-name\anaconda3\envs\env2
